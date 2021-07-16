@@ -1,4 +1,3 @@
 <?php
-header("refresh: 0; https://localhost/tecnologico/public/");
-
+header("refresh: 1; https://localhost/tecnologico/public/");
 ?>
